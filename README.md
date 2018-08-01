@@ -1,6 +1,6 @@
 # Julia Hands-on at [SBPC 2018](http://ra.sbpcnet.org.br/maceio/)
 
-You need [IJulia](https://github.com/JuliaLang/IJulia.jl) to run this tutorial which works in Julia 0.6.3. You are very welcome to use further Julia versions and pull requests to make it works in these versions.
+You need [IJulia](https://github.com/JuliaLang/IJulia.jl) to run this tutorial which works in Julia 0.6.3. You are very welcome to use further Julia versions and pull requests to make it work in these versions.
 
 ## Local installation
 
